@@ -1,0 +1,4 @@
+slack_sdk
+python-telegram-bot
+hikari
+twilio
